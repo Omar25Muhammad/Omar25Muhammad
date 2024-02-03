@@ -19,13 +19,14 @@ You can click the Preview link to take a look at your changes.
 - 📫 You can reach me on LinkedIn at: 
      https://www.linkedin.com/in/omar-m-k-shehada
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar25muhammad&show_icons=true&locale=en&layout=compact" alt="omar25muhammad" /></p>
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=omar25muhammad&show_icons=true&locale=en" alt="omar25muhammad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar25muhammad&" alt="omar25muhammad" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar25muhammad" alt="omar25muhammad" /></a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar25muhammad&show_icons=true&locale=en&layout=compact" alt="omar25muhammad" /></p>
 
 
 
